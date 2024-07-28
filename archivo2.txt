@@ -1,1 +1,3 @@
 Este es un nuevo archivo creado desde GitHub.
+
+Solo es algo de prueba, este archivo esta eliminado.
